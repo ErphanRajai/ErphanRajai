@@ -1,33 +1,50 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Erphan
-==============================================================================================================================
+# Erphan Rajai
+### Machine Learning Systems Engineer | Computer Vision Specialist
 
-Machine Learning engineer
--------------------------
+[cite_start]I am a Machine Learning Engineer focused on developing robust Computer Vision and NLP systems[cite: 2]. [cite_start]My work emphasizes the transition of deep learning models from experimental research to stable, production-ready inference services[cite: 26, 61]. 
 
-e.g.: I've been Coding for about 3 years, used too be working on becoming a backend developer, but i found my passion and love creating Machine Learning Models.
+[cite_start]I am currently advancing my technical expertise at Islamic Azad University, Science and Research Branch[cite: 25].
 
-* 🌍  I'm based in Iran - Tehran
-* ✉️  You can contact me at [itserphan@gmail.com](mailto:itserphan@gmail.com)
-* 🧠  I'm learning TensorFlow and Advanced PyTorch
-* 🤝  I'm open to collaborating on anything PyTorch and TensorFlow related
-* ⚡  I just love learning new stuff
+---
 
-### Skills
+### Technical Expertise
 
+* **Computer Vision & XAI:** Custom Native PyTorch CAM (Class Activation Mapping), Vision Transformers (ViT), CNN Architectures (EfficientNet, ResNet), CLAHE Preprocessing.
+* [cite_start]**Natural Language Processing:** Transformer Architectures (T5, RoBERTa, DistilBERT), Sequence Modeling, Sentiment Analysis, Grammatical Error Correction[cite: 14, 58, 62, 71].
+* [cite_start]**Machine Learning & Stats:** XGBoost, LightGBM, Feature Engineering, Advanced EDA, Regression & Clustering[cite: 18, 19, 37, 38].
+* **Operations & Engineering:** Docker, Git/GitHub, Linux/Bash Scripting, SQL (Window Functions), Gradio & Streamlit.
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+---
 
+### Featured Systems
 
-### Socials
+####  AI Radiologist Assistant (NIH Chest X-Ray 14)
+* Engineered a multi-label classification system for 14 pathological conditions using **EfficientNet-B0**, achieving a mean AUC-ROC of 0.825.
+* Developed a **Custom Native PyTorch CAM** implementation using forward and backward hooks to provide clinical interpretability, bypassing dependency conflicts inherent in standard 3rd-party libraries.
+* Integrated **CLAHE** contrast enhancement for medical image normalization and resolved ASGI/Uvicorn event loop conflicts for stable cloud deployment.
 
-<p align="left"> <a href="https://github.com/ErphanRajai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/itserphan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/itserphan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/itserphan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/itserphan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/itserphan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+####  FoodVision Big (Vision Transformer)
+* [cite_start]Implemented a **Vision Transformer (ViT)** using PyTorch for 101-class image classification[cite: 53, 54, 55].
+* [cite_start]Optimized the model using advanced data augmentation and transfer learning on a dataset of 100k+ images to ensure high generalization[cite: 56].
+* [cite_start]Achieved 95% training accuracy and 90% test accuracy, deployed via a scalable web interface[cite: 56, 57].
 
-### Badges
+####  Grammar Correction T5
+* [cite_start]Fine-tuned a **T5-Small Transformer** on a 500MB Lang8 dataset for end-to-end linguistic error correction[cite: 58, 59].
+* [cite_start]Achieved a 67.42 SacreBLEU score and a 0.857 ROUGE-1 score, demonstrating high accuracy in sequence-to-sequence generation[cite: 60].
+* [cite_start]Publicly hosted with interactive Gradio and Streamlit interfaces for real-time inference[cite: 61].
 
-<b>My GitHub Stats</b>
+---
 
-<a href="https://github.com/ErphanRajai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ErphanRajai&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Industry Experience
 
-<a href="https://github.com/ErphanRajai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErphanRajai&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+* **Machine Learning Intern | [cite_start]BecomeExpert:** Engineered deep learning pipelines for structural crack detection (95%+ accuracy) and developed high-precision pricing models using XGBoost and LightGBM[cite: 34, 36, 37].
+* **Data Analyst | [cite_start]Ravan Rail:** Managed operational data for 200+ employees, producing structured financial reports and auditing payment records[cite: 28, 29, 31, 32].
+
+---
+
+### Connect and Collaborate
+
+* [cite_start]**LinkedIn:** [erphan-rajai](https://www.linkedin.com/in/erphan-rajai/) [cite: 8]
+* [cite_start]**Hugging Face:** [itserphan](https://huggingface.co/itserphan) [cite: 9]
+* **Email:** itserphan@gmail.com [cite: 5]
+* [cite_start]**GitHub:** [ErphanRajai](https://github.com/ErphanRajai) [cite: 7]
